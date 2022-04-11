@@ -1,0 +1,23 @@
+body {
+    background-color: #041b38;
+    color: #ffff;
+}
+
+.bg {
+    background-image: url("img/servers.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topText {
+    font-family: 'Beau Rivage', cursive;
+    font-size: 3rem;
+}
+
+.bottomText {
+    font-family: 'Beau Rivage', cursive;
+    
+    font-size: 3rem;
+}
