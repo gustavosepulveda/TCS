@@ -3,6 +3,8 @@ body {
     color: #ffff;
 }
 
+
+/* 
 .bg {
     background-image: url("img/servers.jpg");
     height: 100vh;
@@ -11,18 +13,18 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
 .topText {
     font-family: 'Beau Rivage', cursive;
-    font-size: 3rem;
+    font-size: 4rem;
     padding-right: 15%;
 }
 
 .bottomText {
     font-family: 'Beau Rivage', cursive;
     
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 .row-content {
