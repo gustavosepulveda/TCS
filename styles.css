@@ -5,6 +5,8 @@ body {
 
 .bg {
     background-image: url("img/servers.jpg");
+    height: 100vh;
+
 
     background-position: center;
     background-repeat: no-repeat;
@@ -14,6 +16,7 @@ body {
 .topText {
     font-family: 'Beau Rivage', cursive;
     font-size: 3rem;
+    padding-right: 15%;
 }
 
 .bottomText {
